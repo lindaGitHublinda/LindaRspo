@@ -1,0 +1,16 @@
+PODS:
+  - LindaRspo (0.1.0)
+
+DEPENDENCIES:
+  - LindaRspo (from `../`)
+
+EXTERNAL SOURCES:
+  LindaRspo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LindaRspo: 1b8eac26066bd2bf7c7d9a97d32409012d5c15e7
+
+PODFILE CHECKSUM: b3e1c703b39129c40dc5056480fa9b9ea5818bbf
+
+COCOAPODS: 1.5.0

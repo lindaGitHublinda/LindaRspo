@@ -1,0 +1,6 @@
+framework module Pods_LindaRspo_Example {
+  umbrella header "Pods-LindaRspo_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

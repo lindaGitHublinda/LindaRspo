@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'LindaRspo_Example' do
+  pod 'LindaRspo', :path => '../'
+
+  target 'LindaRspo_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

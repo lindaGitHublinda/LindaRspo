@@ -1,0 +1,6 @@
+framework module Pods_LindaRspo_Tests {
+  umbrella header "Pods-LindaRspo_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module LindaRspo {
+  umbrella header "LindaRspo-umbrella.h"
+
+  export *
+  module * { export * }
+}
